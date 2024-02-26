@@ -27,7 +27,7 @@ configData.paths.forEach((currentPath) => {
             const stats = fs.statSync(filePath);
 
             if (stats.isDirectory()) {
-                result += `#### **${file}**\n\n`;
+                result += `**${file}**\n\n`;
                 result += exploreDirectory(filePath, depth + 1);
             } else {
                 result += `[${file}](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/${filePath})\n\n`;

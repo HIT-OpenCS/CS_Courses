@@ -27,7 +27,7 @@ jobs:
       uses: EndBug/add-and-commit@v4
       with:
         author_name: GITHUB_GENERATOR
-        message: "AUTO GENERATE sidebar"
+        message: "AUTO GENERATE dl-link"
         add: "*"
       env:
         GITHUB_TOKEN: ${{ secrets.filemd }}
