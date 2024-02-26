@@ -1,5 +1,5 @@
 <!-- tabs:start -->
-#### **课程复习资料**
+**课程复习资料**
 
 [计算机系统-2021春-一纸开卷参考.zip](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/计算机系统-2021春-一纸开卷参考.zip)
 
@@ -13,15 +13,19 @@
 
 [资源网址.txt](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/资源网址.txt)
 
-#### **课程学习资源**
+**课程学习资源**
 
-#### **课程实验指导**
+[计算机系统概论--English.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程学习资源/计算机系统概论--English.pdf)
 
-#### **课程练习题目**
+[计算机系统概论中文版.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程学习资源/计算机系统概论中文版.pdf)
+
+**课程实验指导**
+
+**课程练习题目**
 
 [计算机系统-2022春-模拟题.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程练习题目/计算机系统-2022春-模拟题.pdf)
 
-#### **计算机系统-历年考试题汇总**
+**计算机系统-历年考试题汇总**
 
 [[2017-A]哈工大2017学年计算机系统试题A(含参考答案).docx](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程练习题目/计算机系统-历年考试题汇总/[2017-A]哈工大2017学年计算机系统试题A(含参考答案).docx)
 
