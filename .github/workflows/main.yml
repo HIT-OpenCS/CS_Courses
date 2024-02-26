@@ -28,8 +28,8 @@ jobs:
       with:
         author_name: GITHUB_GENERATOR
         message: "AUTO GENERATE sidebar"
-        add: "*.md"
+        add: "*"
       env:
-        GITHUB_TOKEN: ${{ secrets.autosidebar }}
+        GITHUB_TOKEN: ${{ secrets.filemd }}
         CI: true
 
