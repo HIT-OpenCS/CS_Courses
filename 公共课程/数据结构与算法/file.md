@@ -7,6 +7,8 @@
 
 [数据结构与算法-课程复习提纲（二）.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程复习资料/数据结构与算法-课程复习提纲（二）.pdf)
 
+[数据结构与算法复习例题（算法题）.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程复习资料/数据结构与算法复习例题（算法题）.pdf)
+
 [数据结构与算法复习例题（选择题）.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程复习资料/数据结构与算法复习例题（选择题）.pdf)
 
 [数据结构与算法常见代码.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程复习资料/数据结构与算法常见代码.pdf)
