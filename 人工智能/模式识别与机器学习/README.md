@@ -16,7 +16,7 @@
 
 - 深度学习（多层感知机MLP、卷积神经网络CNN、深度生成模型VAE、循环神经网络RNN和LSTM、机器翻译模型Transformer）
 
-但是后续可能有变动，请以当年老师大纲为准。如果以后有志于从事人工智能相关职业和研究的同学，本门课应该作为长期学习的基础
+但是后续可能有变动，请以当年老师大纲为准。如果以后有志于从事人工智能相关职业和研究的同学，本门课应该作为长期学习的基础，并加强实操能力
 
 #### 2. 关于授课
 
@@ -50,6 +50,9 @@
 ### 一些可能有用的资源
 
 - 李宏毅老师机器学习网课（也可以找前几年的）：[ML 2023 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+- 李宏毅老师生成式人工智慧導論：[GENERATIVE AI 2024 SPRING (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
+- B站跟李沐学AI：[动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+- B站吴恩达机器学习：[吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx/)
 
 ### 学习经验
 
