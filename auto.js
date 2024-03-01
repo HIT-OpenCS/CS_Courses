@@ -30,7 +30,7 @@ configData.paths.forEach((currentPath) => {
                 result += `**${file}**\n\n`;
                 result += exploreDirectory(filePath, depth + 1);
             } else {
-                result += `[${file}](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/${filePath})\n\n`;
+                result += `[${file}](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/${filePath})\n\n`;
             }
         }
 
