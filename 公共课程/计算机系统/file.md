@@ -15,6 +15,8 @@
 
 **课程学习资源**
 
+[深入理解计算机系统（原书第3版）扫描版可编辑 (Randal E.Bryant David OHallaron) (Z-Library).pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程学习资源/深入理解计算机系统（原书第3版）扫描版可编辑 (Randal E.Bryant David OHallaron) (Z-Library).pdf)
+
 [计算机系统概论--English.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程学习资源/计算机系统概论--English.pdf)
 
 [计算机系统概论中文版.pdf](https://raw.gitmirror.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程学习资源/计算机系统概论中文版.pdf)
