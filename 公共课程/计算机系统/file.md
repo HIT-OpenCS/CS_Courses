@@ -9,6 +9,8 @@
 
 [计算机系统-2022春-复习讲座U8-9.pptx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/计算机系统-2022春-复习讲座U8-9.pptx)
 
+[计算机系统-2023春-复习讲座-上半部分.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/计算机系统-2023春-复习讲座-上半部分.pdf)
+
 [计算机系统-2023春-复习讲座-下半部分.pptx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/计算机系统-2023春-复习讲座-下半部分.pptx)
 
 [资源网址.txt](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/资源网址.txt)
