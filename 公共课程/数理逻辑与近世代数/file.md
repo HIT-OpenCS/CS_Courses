@@ -1,4 +1,6 @@
 <!-- tabs:start -->
+[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数理逻辑与近世代数/index.html)
+
 **课程复习资料**
 
 [数理逻辑-2021秋-复习讲座(含标记).pptx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数理逻辑与近世代数/课程复习资料/数理逻辑-2021秋-复习讲座(含标记).pptx)

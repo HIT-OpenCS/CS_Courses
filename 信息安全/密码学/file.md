@@ -1,4 +1,6 @@
 <!-- tabs:start -->
+[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/index.html)
+
 **课程学习资源**
 
 [22秋密码学原理考题(回忆手写版).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/课程学习资源/22秋密码学原理考题(回忆手写版).pdf)
