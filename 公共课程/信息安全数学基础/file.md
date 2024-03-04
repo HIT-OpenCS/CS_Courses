@@ -1,6 +1,4 @@
 <!-- tabs:start -->
-[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/信息安全数学基础/index.html)
-
 **课程学习资源**
 
 [slides_20230927-数论.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/信息安全数学基础/课程学习资源/slides_20230927-数论.pdf)

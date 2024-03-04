@@ -1,6 +1,4 @@
 <!-- tabs:start -->
-[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/index.html)
-
 **课程复习资料**
 
 [算法设计与分析-2023秋-复习讲座.pptx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/课程复习资料/算法设计与分析-2023秋-复习讲座.pptx)

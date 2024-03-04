@@ -1,6 +1,4 @@
 <!-- tabs:start -->
-[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/index.html)
-
 **课程复习资料**
 
 [计算机系统-2021春-一纸开卷参考.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/计算机系统-2021春-一纸开卷参考.zip)

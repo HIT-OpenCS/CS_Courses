@@ -1,6 +1,4 @@
 <!-- tabs:start -->
-[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/index.html)
-
 **课程复习资料**
 
 [数据库系统-2023春-复习笔记.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程复习资料/数据库系统-2023春-复习笔记.pdf)

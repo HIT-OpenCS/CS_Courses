@@ -1,6 +1,4 @@
 <!-- tabs:start -->
-[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/index.html)
-
 **课程复习资料**
 
 [操作系统-2023春-关于几种调度方式的整理.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程复习资料/操作系统-2023春-关于几种调度方式的整理.pdf)

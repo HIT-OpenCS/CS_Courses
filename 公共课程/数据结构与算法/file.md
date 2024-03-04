@@ -1,6 +1,4 @@
 <!-- tabs:start -->
-[index.html](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/index.html)
-
 **课程复习资料**
 
 [数据结构与算法-2022秋-复习讲座-线性表.pptx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程复习资料/数据结构与算法-2022秋-复习讲座-线性表.pptx)
