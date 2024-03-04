@@ -18,7 +18,7 @@ def colored_print(param, color: str):
 class WebsiteUpdater:
     def __init__(self, path: str):
         
-        self.registered_majors = ['公共课程', '计算机科学与技术', '人工智能', '软件工程', '数据科学与大数据技术', '网络空间安全', '信息安全', '选修课程']
+        self.registered_majors = ['公共课程', '计算机科学与技术', '人工智能', '物联网工程', '软件工程', '数据科学与大数据技术', '网络空间安全', '信息安全', '选修课程']
         
         # 支持的readme格式
         self.readme_name = ['README.md', '课程说明.md']
@@ -191,7 +191,7 @@ class WebsiteUpdater:
         """
         
         # 自定义专业顺序，之后通过暴力搜索的方式更新yaml
-        major_order = ['公共课程', '计算机科学与技术', '人工智能', '数据科学与大数据技术', '信息安全', '网络空间安全', '软件工程', '选修课程']
+        major_order = ['公共课程', '计算机科学与技术', '人工智能', '数据科学与大数据技术', '物联网工程', '信息安全', '网络空间安全', '软件工程', '选修课程']
         
         ignore_dir_list = ['img']  # 不关注img文件夹中的内容
         docs_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docs')

@@ -4,7 +4,7 @@
 
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
-感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)、[ymd2002](https://github.com/ymd2002)、[jielahou](https://github.com/jielahou)、[Mubuky](https://github.com/Mubuky)、[jjuuulll](https://github.com/jjuuulll)
+感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)、[ymd2002](https://github.com/ymd2002)、[jielahou](https://github.com/jielahou)、[Mubuky](https://github.com/Mubuky)、[jjuuulll](https://github.com/jjuuulll)、[pmczx](https://github.com/pmczx)
 
 ## :sparkles: 愿景 | Vision
 
@@ -30,7 +30,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试、回忆版考
 
 ## :clipboard: 目录 | Content
 
-为便于查找，此 repo 将公共课必修课以及各个专业专业课放在不同的目录下，具体基本按照以下形式组织，请各位同学提交时注意命名规范，便于大家及时找到您的作品或经验~
+为便于查找，此 repo 将公共课必修课以及各个专业专业课放在不同的目录下，具体基本按照以下形式组织，请各位同学提交时注意命名规范（**文件名请一定不要有空格**），便于大家及时找到您的作品或经验~
 
 ```
 |──公共必修课/[专业]必修课
