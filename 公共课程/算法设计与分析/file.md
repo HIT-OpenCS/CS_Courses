@@ -29,6 +29,8 @@
 
 [算法设计与分析.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/课程学习资源/算法设计与分析-北大屈婉玲老师课件/算法设计与分析.pdf)
 
+[算法设计与分析-北大屈婉玲老师课件.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/课程学习资源/算法设计与分析-北大屈婉玲老师课件.zip)
+
 **课程实验指导**
 
 **课程练习题目**
