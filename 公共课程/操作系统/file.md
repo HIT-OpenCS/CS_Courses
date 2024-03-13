@@ -9,4 +9,30 @@
 
 **课程练习题目**
 
+[操作系统-2005春A-往年题.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2005春A-往年题.doc)
+
+[操作系统-2005春B-往年题.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2005春B-往年题.doc)
+
+[操作系统-2006春-试题A.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2006春-试题A.doc)
+
+[操作系统-2008CS试卷-往年题.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2008CS试卷-往年题.doc)
+
+[操作系统-2008软件试题-往年题.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2008软件试题-往年题.doc)
+
+[操作系统-2009-SE试题.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2009-SE试题.doc)
+
+[操作系统-2009CS-试卷.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2009CS-试卷.doc)
+
+[操作系统-2010CS-答案.docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2010CS-答案.docx)
+
+[操作系统-2010CS-试卷.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2010CS-试卷.doc)
+
+[操作系统-2011-往年题.docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2011-往年题.docx)
+
+[操作系统-2011秋-参考答案.docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2011秋-参考答案.docx)
+
+[操作系统-2011秋-试题.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-2011秋-试题.doc)
+
+[操作系统-期末.docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/操作系统/课程练习题目/操作系统-期末.docx)
+
 <!-- tabs:end -->
