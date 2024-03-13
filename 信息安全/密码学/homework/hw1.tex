@@ -1,0 +1,50 @@
+\documentclass[11pt]{article}
+
+% set 1-inch margins in the document
+\usepackage[margin=1in]{geometry}
+\usepackage{amsthm}
+\theoremstyle{definition}
+
+% include this if you want to import graphics files with /includegraphics
+\usepackage{graphicx}
+
+% info for header block in upper right hand corner
+
+\newtheorem{problem}{Problem}
+
+\title{HIT --- Cryptography --- Homework 1}
+
+\begin{document}
+
+\maketitle
+
+\begin{problem}
+Show that the shift, Mono-Alphabetic sub., and Vigen\`{e}re ciphers are all trivial to break using a known-plaintext attack. How much known plaintext (how many characters) is needed to completely recover the key for each of the ciphers?  (show how to break the cipher)
+\end{problem}
+
+\begin{problem}
+Show that the shift, Mono-Alphabetic sub., and Vigen\`{e}re ciphers are all trivial to break using a chosen-plaintext attack. How much plaintext (how many characters) must be encrypted to completely recover the key? (show your chosen plaintext) 
+\end{problem}
+
+\begin{problem}
+Prove or refute: For every encryption scheme that is perfectly secret it holds that for every distribution over the message space $\mathcal{M}$, every $m, m' \in \mathcal{M}$, and every $c \in \mathcal{C}$:
+\[ \Pr[M=m | C=c] = \Pr[M=m'|C=c].
+\]
+\end{problem}
+
+\begin{problem}
+Study conditions under which the shift, mono-alphabetic sub., and Vigen\`{e}re cipher ciphers are perfectly secret:
+\begin{itemize}
+\item (a) Prove that if only a single character is encrypted, then the shift cipher is perfectly secret.
+\item (b) What is the largest plaintext space $M$ you can find for which the mono-alphabetic sub. cipher provides perfect secrecy?
+\item (c) Show how to use the Vigen\`{e}re cipher to encrypt any word of length $t$ so that perfect secrecy is obtained (note: you can choose the length of the key). Prove your answer.
+\end{itemize}
+\end{problem}
+
+\begin{problem}
+In the one-time pad encryption scheme, it can sometimes happen that the key is the all-zero string. In this case, the encryption of a message $m$ is given by $m \oplus 0^{l} = m$ and therefore the ciphertext is identical to the message!
+\begin{itemize}\item (a) Do you think the one-time pad scheme should be modified so that the all-zero key is not used? Explain.\item (b) Explain how it is possible that the one-time pad is perfectly secure even though the above situation can occur with non-zero probability.
+\end{itemize}
+\end{problem}
+
+\end{document}
