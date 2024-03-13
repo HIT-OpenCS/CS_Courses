@@ -1,4 +1,32 @@
 <!-- tabs:start -->
+**homework**
+
+[amspset.cls](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/amspset.cls)
+
+[hw1.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw1.pdf)
+
+[hw1.tex](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw1.tex)
+
+[hw2.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw2.pdf)
+
+[hw2.tex](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw2.tex)
+
+[hw3.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw3.pdf)
+
+[hw3.tex](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw3.tex)
+
+[hw4.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw4.pdf)
+
+[hw4.tex](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw4.tex)
+
+[hw5.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw5.pdf)
+
+[hw5.tex](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw5.tex)
+
+[hw6.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw6.pdf)
+
+[hw6.tex](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw6.tex)
+
 **课程学习资源**
 
 [22秋密码学原理考题(回忆手写版).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/课程学习资源/22秋密码学原理考题(回忆手写版).pdf)
