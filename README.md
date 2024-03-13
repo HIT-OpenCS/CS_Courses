@@ -21,13 +21,13 @@
 
 
 
-## :ledger: 前言
+## :ledger: 计算学部 | 课程资料共享计划
 
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
 感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)、[ymd2002](https://github.com/ymd2002)、[jielahou](https://github.com/jielahou)、[Mubuky](https://github.com/Mubuky)、[jjuuulll](https://github.com/jjuuulll)、[pmczx](https://github.com/pmczx)、[HITjunle](https://github.com/HITjunle)
 
-## :fire: News
+## :fire: 更新 | News
 
 - [24/03/05] :bento: 上传LOGO
 - [24/03/02] :tada: 我们制作的前端网页正式上线 https://hit-fc-opencs.github.io/CS_Courses/ ！
@@ -103,3 +103,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试、回忆版考
 其他部分的版权归属于其各自的作者。
 
 资料仅供参考，课程内容及重点可能发生变化，请以老师上课实际讲授为准。
+
+## :star2: 关注 | Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=HIT-FC-OpenCS/CS_Courses&type=Date)
