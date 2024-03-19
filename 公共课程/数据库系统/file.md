@@ -27,16 +27,20 @@
 
 [数据库系统-2021春-往年题.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2021春-往年题.pdf)
 
-[数据库系统-2023秋-作业一答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业一答案.pdf)
+**数据库系统-2023秋-作业题答案**
 
-[数据库系统-2023秋-作业七及答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业七及答案.pdf)
+[数据库系统-2023秋-作业一答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案/数据库系统-2023秋-作业一答案.pdf)
 
-[数据库系统-2023秋-作业二答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业二答案.pdf)
+[数据库系统-2023秋-作业七及答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案/数据库系统-2023秋-作业七及答案.pdf)
 
-[数据库系统-2023秋-作业五答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业五答案.pdf)
+[数据库系统-2023秋-作业二答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案/数据库系统-2023秋-作业二答案.pdf)
 
-[数据库系统-2023秋-作业六及答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业六及答案.pdf)
+[数据库系统-2023秋-作业五答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案/数据库系统-2023秋-作业五答案.pdf)
 
-[数据库系统-2023秋-作业四答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业四答案.pdf)
+[数据库系统-2023秋-作业六及答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案/数据库系统-2023秋-作业六及答案.pdf)
+
+[数据库系统-2023秋-作业四答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案/数据库系统-2023秋-作业四答案.pdf)
+
+[数据库系统-2023秋-作业题答案.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案.zip)
 
 <!-- tabs:end -->
