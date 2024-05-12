@@ -11,6 +11,8 @@
 
 [计算机组成与设计：硬件、软件接口（第4版）.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机组成原理/课程学习资源/计算机组成与设计：硬件、软件接口（第4版）.pdf)
 
+[计算机组成原理-2024春-开箱手册.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机组成原理/课程学习资源/计算机组成原理-2024春-开箱手册.pdf)
+
 [计算机组成原理第3版(唐朔飞)(Z-Library).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机组成原理/课程学习资源/计算机组成原理第3版(唐朔飞)(Z-Library).pdf)
 
 **课程实验指导**
