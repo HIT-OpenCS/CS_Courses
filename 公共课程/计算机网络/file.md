@@ -47,15 +47,15 @@
 
 [Chapter1-Introduction.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter1-Introduction.pdf)
 
-[Chapter2-Application Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter2-Application Layer.pdf)
+[Chapter2-Application-Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter2-Application-Layer.pdf)
 
-[Chapter3-Transport Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter3-Transport Layer.pdf)
+[Chapter3-Transport-Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter3-Transport-Layer.pdf)
 
-[Chapter4-Network Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter4-Network Layer.pdf)
+[Chapter4-Network-Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter4-Network-Layer.pdf)
 
-[Chapter5-Data Link Layer & LAN.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter5-Data Link Layer & LAN.pdf)
+[Chapter5-Data-Link-Layer-&-LAN.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter5-Data-Link-Layer-&-LAN.pdf)
 
-[Chapter6-Physical Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter6-Physical Layer.pdf)
+[Chapter6-Physical-Layer.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter6-Physical-Layer.pdf)
 
 [Chapter7-无线与移动网.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/slides/Chapter7-无线与移动网.pdf)
 
