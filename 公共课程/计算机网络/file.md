@@ -1,4 +1,8 @@
 <!-- tabs:start -->
+**books**
+
+[计算机网络-自顶向下方法第七版.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/books/计算机网络-自顶向下方法第七版.pdf)
+
 **exp**
 
 [《计算机网络》实验指导书-实验2.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/《计算机网络》实验指导书-实验2.pdf)
