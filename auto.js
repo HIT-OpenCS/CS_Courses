@@ -4,7 +4,7 @@ const path = require('path');
 // 读取config.json文件
 const configFile = path.join(__dirname, 'config.json');
 const configData = require(configFile);
-
+let dl_link = "";
 // 遍历路径数组
 configData.paths.forEach((currentPath) => {
     const outputPath = path.join(currentPath, 'file.md');
@@ -30,18 +30,19 @@ configData.paths.forEach((currentPath) => {
                 result += `**${file}**\n\n`;
                 result += exploreDirectory(filePath, depth + 1);
             } else {
-                result += `[${file}](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/${filePath})\n\n`;
+                result += `[${file}](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/${filePath})\n\n`.replace(/\\/g, "/");
             }
         }
-
         return result;
     }
-
+    dl_link+=`![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/`+outputPath+` ":include")\n\n`;
+    
     // 写入文件
     const content = "<!-- tabs:start -->\n"+exploreDirectory(currentPath, 0)+"<!-- tabs:end -->";
     fs.writeFileSync(outputPath, content);
 
     console.log(`File generated successfully for path: ${currentPath}`);
 });
+fs.writeFileSync("./dl_link.md", dl_link.replace(/\\/g, "/"));
 
 console.log('Script execution completed.');
