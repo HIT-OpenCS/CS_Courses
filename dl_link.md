@@ -72,3 +72,5 @@
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/自然语言处理/file.md ":include")
 
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/计算机组织与体系结构/file.md ":include")
+
