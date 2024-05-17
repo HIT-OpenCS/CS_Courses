@@ -32,11 +32,15 @@
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/file.md ":include")
 
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/软件构造/file.md ":include")
+
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/信息安全数学基础/file.md ":include")
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/形式语言与自动机/file.md ":include")
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/需求设计与系统分析/file.md ":include")
+
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/file.md ":include")
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/计算机科学与技术/计算机体系结构/file.md ":include")
 
@@ -61,4 +65,10 @@
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/信息内容安全/file.md ":include")
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/GPU计算/file.md ":include")
+
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/大学生心理健康/file.md ":include")
+
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/图像处理/file.md ":include")
+
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/自然语言处理/file.md ":include")
 
