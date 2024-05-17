@@ -5,11 +5,25 @@
 
 **exp**
 
+[《计算机网络》实验指导书(2020).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/《计算机网络》实验指导书(2020).pdf)
+
 [《计算机网络》实验指导书-实验2.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/《计算机网络》实验指导书-实验2.pdf)
 
 [《计算机网络》实验指导书-实验6.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/《计算机网络》实验指导书-实验6.pdf)
 
 [《计算机网络》实验指导书-实验一.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/《计算机网络》实验指导书-实验一.pdf)
+
+[实验一.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/实验一.zip)
+
+[实验三.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/实验三.zip)
+
+[实验二.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/实验二.zip)
+
+[实验四.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/实验四.zip)
+
+[实验报告模板.docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/实验报告模板.docx)
+
+[计算机网络实验评分细则.docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/exp/计算机网络实验评分细则.docx)
 
 **homework**
 
