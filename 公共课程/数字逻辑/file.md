@@ -17,30 +17,30 @@
 
 [Verilog教程.ppt](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/Verilog教程.ppt)
 
-[unit 1-绪论(1).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 1-绪论(1).pdf)
+[unit-1-绪论(1).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-1-绪论(1).pdf)
 
-[unit 2-布尔代数.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 2-布尔代数.pdf)
+[unit-10-时序电路分析.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-10-时序电路分析.pdf)
 
-[unit 3-布尔代数的应用等.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 3-布尔代数的应用等.pdf)
+[unit-11-利用MSI块的时序电路设计.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-11-利用MSI块的时序电路设计.pdf)
 
-[unit 10-时序电路分析.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 10-时序电路分析.pdf)
+[unit-12-利用触发器的时序电路设计.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-12-利用触发器的时序电路设计.pdf)
 
-[unit 11-利用MSI块的时序电路设计.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 11-利用MSI块的时序电路设计.pdf)
+[unit-13-可编程逻辑器件.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-13-可编程逻辑器件.pdf)
 
-[unit 12-利用触发器的时序电路设计.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 12-利用触发器的时序电路设计.pdf)
+[unit-2-布尔代数.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-2-布尔代数.pdf)
 
-[unit 13-可编程逻辑器件.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 13-可编程逻辑器件.pdf)
+[unit-3-布尔代数的应用等.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-3-布尔代数的应用等.pdf)
 
-[unit 4-卡诺图.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 4-卡诺图.pdf)
+[unit-4-卡诺图.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-4-卡诺图.pdf)
 
-[unit 5-多级门电路.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 5-多级门电路.pdf)
+[unit-5-多级门电路.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-5-多级门电路.pdf)
 
-[unit 6-冒险.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 6-冒险.pdf)
+[unit-6-冒险.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-6-冒险.pdf)
 
-[unit 7-数据选择器和译码器等.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 7-数据选择器和译码器等.pdf)
+[unit-7-数据选择器和译码器等.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-7-数据选择器和译码器等.pdf)
 
-[unit 8-锁存器与触发器.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 8-锁存器与触发器.pdf)
+[unit-8-锁存器与触发器.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-8-锁存器与触发器.pdf)
 
-[unit 9-寄存器和计数器.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 9-寄存器和计数器.pdf)
+[unit-9-寄存器和计数器.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit-9-寄存器和计数器.pdf)
 
 <!-- tabs:end -->
