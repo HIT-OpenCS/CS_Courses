@@ -42,6 +42,10 @@
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/file.md ":include")
 
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/信息安全概论/file.md ":include")
+
+![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算方法/file.md ":include")
+
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/计算机科学与技术/计算机体系结构/file.md ":include")
 
 ![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/计算机科学与技术/计算理论/file.md ":include")
