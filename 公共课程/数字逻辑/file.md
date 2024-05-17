@@ -15,6 +15,8 @@
 
 **课件**
 
+[Verilog教程.ppt](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/Verilog教程.ppt)
+
 [unit 1-绪论(1).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 1-绪论(1).pdf)
 
 [unit 2-布尔代数.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 2-布尔代数.pdf)
@@ -40,7 +42,5 @@
 [unit 8-锁存器与触发器.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 8-锁存器与触发器.pdf)
 
 [unit 9-寄存器和计数器.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/unit 9-寄存器和计数器.pdf)
-
-[Verilog教程.ppt](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数字逻辑/课件/Verilog教程.ppt)
 
 <!-- tabs:end -->
