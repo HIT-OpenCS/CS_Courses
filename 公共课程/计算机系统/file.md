@@ -53,8 +53,6 @@
 
 **考题-模拟题**
 
-[zsh123历年考题及参考答案(1).rar](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/zsh123历年考题及参考答案(1).rar)
-
 [[2017-A]哈工大2017学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2017-A]哈工大2017学年计算机系统试题A(含参考答案).docx)
 
 [[2017-A]哈工大2017学年计算机系统试题A(无参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2017-A]哈工大2017学年计算机系统试题A(无参考答案).pdf)
@@ -70,6 +68,8 @@
 [[2019-A]哈工大2019学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2019-A]哈工大2019学年计算机系统试题A(含参考答案).docx)
 
 [[2021-A]哈工大2021学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2021-A]哈工大2021学年计算机系统试题A(含参考答案).docx)
+
+[zsh123历年考题及参考答案(1).rar](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/zsh123历年考题及参考答案(1).rar)
 
 [计算机系统-2022春-模拟题.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/计算机系统-2022春-模拟题.pdf)
 
