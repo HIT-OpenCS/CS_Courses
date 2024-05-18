@@ -1,7 +1,7 @@
 <!-- tabs:start -->
 **实验**
 
-[lab-0 lab guidelines.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/软件构造/实验/lab-0 lab guidelines.pdf)
+[lab-0-guidelines.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/软件构造/实验/lab-0-guidelines.pdf)
 
 [实验一.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/软件构造/实验/实验一.zip)
 
