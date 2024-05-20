@@ -105,4 +105,12 @@
 
 [链路层.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/课程复习资料/计算机网络SPOC详细复习笔记（建议搭配SPOC视频使用）/链路层.pdf)
 
+**课程学习资源**
+
+[计网笔记_1.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/课程学习资源/计网笔记_1.pdf)
+
+[计网笔记_2.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/课程学习资源/计网笔记_2.pdf)
+
+[计网笔记_3.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/课程学习资源/计网笔记_3.pdf)
+
 <!-- tabs:end -->
