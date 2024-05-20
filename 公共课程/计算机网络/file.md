@@ -51,6 +51,8 @@
 
 [计算机网络-自测-第4次-参考答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/homework/计算机网络-自测-第4次-参考答案.pdf)
 
+[计算机网络-自测-第5次-参考答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/homework/计算机网络-自测-第5次-参考答案.pdf)
+
 [计算机网络-自测-第6次-参考答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/homework/计算机网络-自测-第6次-参考答案.pdf)
 
 [计算机网络-自测-第7次-参考答案.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/homework/计算机网络-自测-第7次-参考答案.pdf)
