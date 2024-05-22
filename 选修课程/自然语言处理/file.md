@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **作业**
 
 [作业1.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/自然语言处理/作业/作业1.pdf)
@@ -21,4 +20,3 @@
 
 [课程PPT.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/自然语言处理/课程PPT.zip)
 
-<!-- tabs:end -->

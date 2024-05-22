@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **课程复习资料**
 
 [数据库系统-2023春-复习笔记.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程复习资料/数据库系统-2023春-复习笔记.pdf)
@@ -43,4 +42,3 @@
 
 [数据库系统-2023秋-作业题答案.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据库系统/课程练习题目/数据库系统-2023秋-作业题答案.zip)
 
-<!-- tabs:end -->

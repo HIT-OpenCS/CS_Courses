@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **课程复习资料**
 
 [概率论与数理统计-2022秋-复习手册-概率论部分.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/概率论与数理统计/课程复习资料/概率论与数理统计-2022秋-复习手册-概率论部分.pdf)
@@ -33,4 +32,3 @@
 
 [概率论与数理统计-2022秋-试题及答案(C).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/概率论与数理统计/课程练习题目/概率论与数理统计-2022秋-试题及答案(C).pdf)
 
-<!-- tabs:end -->

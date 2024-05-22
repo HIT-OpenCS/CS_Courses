@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **课程复习资料**
 
 [人工智能数学基础-2023春-复习笔记.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/人工智能/人工智能数学基础/课程复习资料/人工智能数学基础-2023春-复习笔记.pdf)
@@ -15,4 +14,3 @@
 
 **课程练习题目**
 
-<!-- tabs:end -->

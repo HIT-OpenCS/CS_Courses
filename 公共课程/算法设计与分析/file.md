@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **作业**
 
 [算法设计与分析第一章.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/作业/算法设计与分析第一章.pdf)
@@ -57,4 +56,3 @@
 
 [算法设计与分析-2021秋-期末回忆题.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/算法设计与分析/课程练习题目/算法设计与分析-2021秋-期末回忆题.pdf)
 
-<!-- tabs:end -->

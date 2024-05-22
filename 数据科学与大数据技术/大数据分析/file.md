@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **课程复习资料**
 
 [大数据分析-2023秋-复习讲座.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/数据科学与大数据技术/大数据分析/课程复习资料/大数据分析-2023秋-复习讲座.pdf)
@@ -11,4 +10,3 @@
 
 **课程练习题目**
 
-<!-- tabs:end -->

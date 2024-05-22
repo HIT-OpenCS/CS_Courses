@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **实验**
 
 [1_计算方法实验-ldh(1).doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算方法/实验/1_计算方法实验-ldh(1).doc)
@@ -11,4 +10,3 @@
 
 [lab3.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算方法/实验/lab3.zip)
 
-<!-- tabs:end -->

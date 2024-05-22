@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **books**
 
 [2023王道计算机网络考研复习指导.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/books/2023王道计算机网络考研复习指导.pdf)
@@ -113,4 +112,3 @@
 
 [计网笔记_3.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机网络/课程学习资源/计网笔记_3.pdf)
 
-<!-- tabs:end -->

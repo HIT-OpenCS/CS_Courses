@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **课程复习资料**
 
 [数据结构与算法-2022秋-复习讲座-线性表.pptx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程复习资料/数据结构与算法-2022秋-复习讲座-线性表.pptx)
@@ -51,4 +50,3 @@
 
 [数据结构与算法-2022秋-模拟题答案.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/数据结构与算法/课程练习题目/数据结构与算法-2022秋-模拟题答案.doc)
 
-<!-- tabs:end -->

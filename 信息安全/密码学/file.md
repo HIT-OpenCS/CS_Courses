@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **homework**
 
 [hw1.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/homework/hw1.pdf)
@@ -33,4 +32,3 @@
 
 [密码学原理-2022秋-实验报告.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/信息安全/密码学/课程实验指导/密码学原理-2022秋-实验报告.pdf)
 
-<!-- tabs:end -->

@@ -1,2 +1,0 @@
-<!-- tabs:start -->
-<!-- tabs:end -->

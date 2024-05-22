@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **books**
 
 [introduction-to-algorithms(3rd-edition).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/大一/集合论与图论/books/introduction-to-algorithms(3rd-edition).pdf)
@@ -75,4 +74,3 @@
 
 [第四章无穷集合.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/大一/集合论与图论/slides/第四章无穷集合.pdf)
 
-<!-- tabs:end -->

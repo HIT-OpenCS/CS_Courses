@@ -1,4 +1,3 @@
-<!-- tabs:start -->
 **作业**
 
 [Requirements-Bottlenecks-and-Good-Fortune-Agents-for-Microprocessor-Evolution-Y.Patt.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/计算机组织与体系结构/作业/Requirements-Bottlenecks-and-Good-Fortune-Agents-for-Microprocessor-Evolution-Y.Patt.pdf)
@@ -55,4 +54,3 @@
 
 [计算机组织与体系结构---第9讲.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/选修课程/计算机组织与体系结构/课件/计算机组织与体系结构---第9讲.pdf)
 
-<!-- tabs:end -->
