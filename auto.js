@@ -38,7 +38,7 @@ configData.paths.forEach((currentPath) => {
     dl_link+=`![](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/`+outputPath+` ":include")\n\n`;
     
     // 写入文件
-    const content = "<!-- tabs:start -->\n"+exploreDirectory(currentPath, 0)+"<!-- tabs:end -->";
+    const content = exploreDirectory(currentPath, 0);
     fs.writeFileSync(outputPath, content);
 
     console.log(`File generated successfully for path: ${currentPath}`);
