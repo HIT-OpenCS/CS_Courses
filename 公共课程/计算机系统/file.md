@@ -1,15 +1,5 @@
 **CSAPP考研资料**
 
-**个人整理的CSAPP资料**
-
-[[冲刺复习]哈尔滨工业大学计算机基础854冲刺考点.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/CSAPP考研资料/个人整理的CSAPP资料/[冲刺复习]哈尔滨工业大学计算机基础854冲刺考点.pdf)
-
-[[冲刺复习答案]哈尔滨工业大学计算机基础854冲刺考点_.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/CSAPP考研资料/个人整理的CSAPP资料/[冲刺复习答案]哈尔滨工业大学计算机基础854冲刺考点_.pdf)
-
-[[分章节打印版]CSAPP期末试题分章节打印版.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/CSAPP考研资料/个人整理的CSAPP资料/[分章节打印版]CSAPP期末试题分章节打印版.pdf)
-
-[[试卷打印版PDF]CSAPP期末试题汇总.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/CSAPP考研资料/个人整理的CSAPP资料/[试卷打印版PDF]CSAPP期末试题汇总.pdf)
-
 **其他学校相关课程的资料(学有余力看)**
 
 **A-北京大学计算机系统导论试题(学有余力看)**
@@ -302,11 +292,25 @@
 
 [[2023-B]哈工大2023学年计算机系统试题B(含参考答案).doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2023-B]哈工大2023学年计算机系统试题B(含参考答案).doc)
 
+[~$022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/~$022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.doc)
+
+[~$022-A]计算机系统2022春A-试题卷2022.05.25.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/~$022-A]计算机系统2022春A-试题卷2022.05.25.doc)
+
 [计算机系统-2022春-模拟题.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/计算机系统-2022春-模拟题.pdf)
 
 **课程复习资料**
 
+[[冲刺复习]哈尔滨工业大学计算机基础854冲刺考点.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/[冲刺复习]哈尔滨工业大学计算机基础854冲刺考点.pdf)
+
+[[冲刺复习答案]哈尔滨工业大学计算机基础854冲刺考点_.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/[冲刺复习答案]哈尔滨工业大学计算机基础854冲刺考点_.pdf)
+
+[[分章节打印版]CSAPP期末试题分章节打印版.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/[分章节打印版]CSAPP期末试题分章节打印版.pdf)
+
+[[试卷打印版PDF]CSAPP期末试题汇总.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/[试卷打印版PDF]CSAPP期末试题汇总.pdf)
+
 [一纸开卷cheat_sheet.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/一纸开卷cheat_sheet.pdf)
+
+[基础知识.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/基础知识.pdf)
 
 [计算机系统-2021春-一纸开卷参考.zip](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/课程复习资料/计算机系统-2021春-一纸开卷参考.zip)
 
