@@ -268,6 +268,8 @@
 
 [[2017-A]哈工大2017学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2017-A]哈工大2017学年计算机系统试题A(含参考答案).docx)
 
+[[2017-A]哈工大2017学年计算机系统试题A(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2017-A]哈工大2017学年计算机系统试题A(含参考答案).pdf)
+
 [[2017-A]哈工大2017学年计算机系统试题A(无参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2017-A]哈工大2017学年计算机系统试题A(无参考答案).pdf)
 
 [[2017-B]哈工大2017学年计算机系统试题B(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2017-B]哈工大2017学年计算机系统试题B(含参考答案).pdf)
@@ -276,23 +278,41 @@
 
 [[2018-A]哈工大2018学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2018-A]哈工大2018学年计算机系统试题A(含参考答案).docx)
 
+[[2018-A]哈工大2018学年计算机系统试题A(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2018-A]哈工大2018学年计算机系统试题A(含参考答案).pdf)
+
 [[2018-B]哈工大2018学年计算机系统试题B(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2018-B]哈工大2018学年计算机系统试题B(含参考答案).pdf)
 
 [[2018-B]计算机系统2018B-答案-2021修正.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2018-B]计算机系统2018B-答案-2021修正.pdf)
 
 [[2019-A]哈工大2019学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2019-A]哈工大2019学年计算机系统试题A(含参考答案).docx)
 
+[[2019-A]哈工大2019学年计算机系统试题A(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2019-A]哈工大2019学年计算机系统试题A(含参考答案).pdf)
+
 [[2021-A]哈工大2021学年计算机系统试题A(含参考答案).docx](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2021-A]哈工大2021学年计算机系统试题A(含参考答案).docx)
+
+[[2021-A]哈工大2021学年计算机系统试题A(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2021-A]哈工大2021学年计算机系统试题A(含参考答案).pdf)
 
 [[2021-A]计算机系统2021A-Bugs.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2021-A]计算机系统2021A-Bugs.pdf)
 
 [[2022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.doc)
 
+[[2022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.pdf)
+
 [[2022-A]计算机系统2022春A-试题卷2022.05.25.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2022-A]计算机系统2022春A-试题卷2022.05.25.doc)
+
+[[2022-A]计算机系统2022春A-试题卷2022.05.25.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2022-A]计算机系统2022春A-试题卷2022.05.25.pdf)
 
 [[2023-A]哈工大2023学年计算机系统试题A(含参考答案).doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2023-A]哈工大2023学年计算机系统试题A(含参考答案).doc)
 
+[[2023-A]哈工大2023学年计算机系统试题A(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2023-A]哈工大2023学年计算机系统试题A(含参考答案).pdf)
+
 [[2023-B]哈工大2023学年计算机系统试题B(含参考答案).doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2023-B]哈工大2023学年计算机系统试题B(含参考答案).doc)
+
+[[2023-B]哈工大2023学年计算机系统试题B(含参考答案).pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/[2023-B]哈工大2023学年计算机系统试题B(含参考答案).pdf)
+
+[~$022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/~$022-A]计算机系统2022春A-答题卡-★答案--阅卷2022.06.01.doc)
+
+[~$022-A]计算机系统2022春A-试题卷2022.05.25.doc](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/~$022-A]计算机系统2022春A-试题卷2022.05.25.doc)
 
 [计算机系统-2022春-模拟题.pdf](https://gh.hitcs.cc/https://raw.githubusercontent.com/HIT-OpenCS/CS_Courses/main/公共课程/计算机系统/考题-模拟题/计算机系统-2022春-模拟题.pdf)
 
